@@ -1,0 +1,46 @@
+nav{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    position: fixed;
+    padding-right: 600px;
+}
+.t{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 32px;
+    margin-left: 50px;
+}
+nav section{
+    display: flex;
+    justify-content: flex-end;
+
+}
+body{
+    margin: 0;
+}
+.s2{
+    display: block;
+    margin-left:500px ;
+}
+.s1{
+    margin-top: 15px;
+}
+.m{
+    background-image: url(pa.jpg);
+    padding: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 30px;
+}
+input{
+    padding-right: 400px;
+    padding-top: 100px;
+}
+::placeholder{
+    font-size: 30px;
+    margin-bottom: 100px;
+}
